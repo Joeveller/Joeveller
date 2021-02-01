@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id="demo">Welcome to JavaScript</p>
+
+<button onclick="myFunction()">Check here</button>
+
+<script>
+function myFunction() {
+  var name = prompt("enter your name");
+alert("Hi "+ name +"Comments noted");  
+}
+</script>
+
+</body>
+</html>
